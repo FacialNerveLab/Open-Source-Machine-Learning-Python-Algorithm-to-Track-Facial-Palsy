@@ -1,0 +1,9 @@
+Time duration samples with readFPvideo_20240312.py:
+CompleteFlaccid1 (60fps 1080x1920p video 46 sec): 10:07 minutes
+Synkinetic_NearNormal1 (60fps 1080x1920p video 34 sec): 07:27 minutes 
+MildFlaccid4 (30fps 1920x1080p video 26 sec): 02:41 minutes
+ModerateFlaccid2 (30fps 1280x720p video 45 sec): 02:25 minutes
+
+
+Time duration samples with batchreadFPvideo_20240312.py on a folder with 4 videos: 
+CompleteFlaccid1, Normal3, Normal10, Synkinetic_NearNormal1 (all 60fps videos): 34:48 minutes
